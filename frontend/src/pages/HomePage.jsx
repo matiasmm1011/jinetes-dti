@@ -161,7 +161,7 @@ export default function HomePage() {
           </div>
           <div className={styles.infoCard}>
             <span className={styles.infoIcon}>🔍</span>
-            <p>Busca tu carnet para ver el estado de tu tarjeta</p>
+            <p>Introduce tu codigo para ver el estado de tu tarjeta</p>
           </div>
           <div className={styles.infoCard}>
             <span className={styles.infoIcon}>🏆</span>
